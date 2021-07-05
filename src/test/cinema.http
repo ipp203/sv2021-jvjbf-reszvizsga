@@ -6,7 +6,7 @@ POST http://localhost:8080/api/cinema
 Content-Type: application/json
 
 {
-  "title": "",
+  "title": "Titanic",
   "date" : [2021,6,30,12,30],
   "maxReservation": 120
 }
